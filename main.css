@@ -1,0 +1,42 @@
+body {
+  color: #000000;
+  background: linear-gradient( #bbb, transparent 1px), linear-gradient( 90deg, #bbb, transparent 1px);
+  background-size: 15px 15px;
+  background-position: center center;
+}
+
+.form {
+  width: 300px;
+  height: 200px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 7px;
+  margin-left: 50px;
+  margin-top: 50px;
+  padding: 40px;
+  overflow-y: auto;
+}
+
+.mess {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.date {
+  font-size: small;
+  margin-bottom: 5px;
+}
+
+span {
+  display: block;
+}
+
+.image {
+  position: absolute;
+  left: -35px;
+  top: 10px;
+}
+
+
+
+/*# sourceMappingURL=main.css.map*/
